@@ -1,0 +1,22 @@
+{
+  "name": "backend-eventos",
+  "version": "1.0.0",
+  "description": "Projeto para criação de eventos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/adriano.martins.dev/backend-eventos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/adriano.martins.dev/backend-eventos/issues"
+  },
+  "homepage": "https://gitlab.com/adriano.martins.dev/backend-eventos#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
